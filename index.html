@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carte des trajets vélo et camion</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/js/all.min.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div id="container">
+      <div id="map"></div>
+      <div id="controls">
+        <h2>Liste des trajets</h2>
+        <div class="button-container">
+          <button class="button" id="btn-velo" onclick="afficherTrajets('velo')">
+            <i class="fas fa-bicycle"></i>
+          </button>
+          <button class="button" id="btn-camion" onclick="afficherTrajets('camion')">
+            <i class="fas fa-truck"></i>
+          </button>
+          <button class="button refresh" id="btn-refresh" onclick="actualiserDonnees()">
+            <i class="fas fa-sync-alt"></i>
+          </button>
+        </div>
+        <div id="trajets-list"></div>
+      </div>
+    </div>
+
+    <script>
+      var map = L.map("map").setView([48.6921, 6.1844], 13);
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        attribution: "© OpenStreetMap contributors",
+      }).addTo(map);
+
+      var trajetsData;
+
+      // Charger le fichier JSON pour les trajets
+      $.getJSON("/trajets_repartition.json", function (data) {
+        trajetsData = data;
+
+        // Appel pour afficher les stations sur la carte au chargement
+        afficherStations(trajetsData.stations);
+      });
+
+      // Fonction pour afficher les trajets vélo ou camion
+      function afficherTrajets(type) {
+        var trajetsList = document.getElementById("trajets-list");
+        trajetsList.innerHTML = "";
+
+        // Changer l'état actif du bouton
+        document.getElementById("btn-velo").classList.remove("active");
+        document.getElementById("btn-camion").classList.remove("active");
+        if (type === "velo") {
+          document.getElementById("btn-velo").classList.add("active");
+        } else {
+          document.getElementById("btn-camion").classList.add("active");
+        }
+
+        var trajets =
+          type === "velo" ? trajetsData.trajets_velo : trajetsData.trajets_camion;
+
+        trajets.forEach(function (trajet, index) {
+          var trajetDiv = document.createElement("div");
+          trajetDiv.className = "trajet-button";
+          trajetDiv.innerText =
+            "Trajet " + (index + 1) + ": " + trajet.source + " -> " + trajet.destination;
+          trajetDiv.onclick = function () {
+            afficherTrajetSurCarte(trajet);
+          };
+          trajetsList.appendChild(trajetDiv);
+        });
+      }
+
+      // Fonction pour afficher un trajet sur la carte
+      function afficherTrajetSurCarte(trajet) {
+        map.eachLayer(function (layer) {
+          if (layer.options && layer.options.pane !== "tilePane") {
+            map.removeLayer(layer);
+          }
+        });
+
+        var start = trajet.path[0];
+        var end = trajet.path[trajet.path.length - 1];
+
+        L.marker([start[0], start[1]], {
+          icon: L.divIcon({ className: "station-marker " + trajet.source_color }),
+        })
+          .addTo(map)
+          .bindPopup("Départ: " + trajet.source)
+          .openPopup();
+
+        L.marker([end[0], end[1]], {
+          icon: L.divIcon({ className: "station-marker " + trajet.destination_color }),
+        })
+          .addTo(map)
+          .bindPopup("Arrivée: " + trajet.destination)
+          .openPopup();
+
+        var latlngs = trajet.path.map(function (coord) {
+          return [coord[0], coord[1]];
+        });
+
+        var trajetColor = trajet.mode_transport === "velo" ? "blue" : "red";
+
+        L.polyline(latlngs, {
+          color: trajetColor,
+          weight: 3,
+        }).addTo(map);
+      }
+
+      // Fonction pour afficher toutes les stations avec des pins de couleur
+      function afficherStations(stations) {
+        stations.forEach(function (station) {
+          L.marker([station.position.lat, station.position.lng], {
+            icon: L.divIcon({
+              className: "station-marker " + station.couleur,
+              html: station.icone,
+            }),
+          })
+            .addTo(map)
+            .bindPopup(station.name);
+        });
+      }
+
+      // Fonction pour actualiser les données en appelant le script Python qui génère le JSON
+      function actualiserDonnees() {
+        $.ajax({
+          url: "trajets_repartition.json", // L'URL de ton script Python qui régénère le JSON
+          method: "GET",
+          success: function () {
+            alert("Les données ont été actualisées !");
+            window.location.reload(); // Recharger la page pour appliquer les nouvelles données
+          },
+          error: function () {
+            alert("Erreur lors de l'actualisation des données.");
+          },
+        });
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,3510 @@
+{
+    "stations": [
+        {
+            "number": 30,
+            "contract_name": "nancy",
+            "name": "00030 - NATIONS",
+            "address": "au milieu du boulevard des Nations \u00a0\u00e0 Vandoeuvre dans le prolongement de l\u2019arr\u00eat de bus Nations devant le centre commercial",
+            "position": {
+                "lat": 48.662356,
+                "lng": 6.173442
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 15,
+            "available_bike_stands": 6,
+            "available_bikes": 9,
+            "status": "OPEN",
+            "last_update": 1729064670000,
+            "couleur": "green",
+            "icone": "\ud83d\udfe2"
+        },
+        {
+            "number": 29,
+            "contract_name": "nancy",
+            "name": "00029 - VELODROME (CB)",
+            "address": "Place du V\u00e9lodrome",
+            "position": {
+                "lat": 48.666721193896,
+                "lng": 6.16661978303466
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 24,
+            "available_bike_stands": 15,
+            "available_bikes": 9,
+            "status": "OPEN",
+            "last_update": 1729065255000,
+            "couleur": "orange",
+            "icone": "\ud83d\udfe0"
+        },
+        {
+            "number": 1,
+            "contract_name": "nancy",
+            "name": "00001 - DOMINICAINS - FOURIER (CB)",
+            "address": "Angle rue Pierre FOURIER et rue des Dominicains",
+            "position": {
+                "lat": 48.6924654452072,
+                "lng": 6.18340055389445
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 25,
+            "available_bike_stands": 17,
+            "available_bikes": 8,
+            "status": "OPEN",
+            "last_update": 1729065045000,
+            "couleur": "orange",
+            "icone": "\ud83d\udfe0"
+        },
+        {
+            "number": 33,
+            "contract_name": "nancy",
+            "name": "00033 - LAXOU MAIRIE",
+            "address": "9 av Paul D\u00e9roul\u00e8de",
+            "position": {
+                "lat": 48.684954,
+                "lng": 6.154908
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 15,
+            "available_bike_stands": 9,
+            "available_bikes": 6,
+            "status": "OPEN",
+            "last_update": 1729065190000,
+            "couleur": "orange",
+            "icone": "\ud83d\udfe0"
+        },
+        {
+            "number": 6,
+            "contract_name": "nancy",
+            "name": "00006 - LES 2 RIVES",
+            "address": "2 rue Emilie du Ch\u00e2telet",
+            "position": {
+                "lat": 48.695420147586,
+                "lng": 6.19522861327582
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 16,
+            "available_bike_stands": 13,
+            "available_bikes": 3,
+            "status": "OPEN",
+            "last_update": 1729064792000,
+            "couleur": "red",
+            "icone": "\ud83d\udd34"
+        },
+        {
+            "number": 19,
+            "contract_name": "nancy",
+            "name": "00019 - COMMANDERIE - CHALNOT",
+            "address": "Angle rue Pierre CHALNOT et rue de la Commanderie",
+            "position": {
+                "lat": 48.6869197241039,
+                "lng": 6.17234789239391
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 18,
+            "available_bike_stands": 15,
+            "available_bikes": 3,
+            "status": "OPEN",
+            "last_update": 1729065207000,
+            "couleur": "red",
+            "icone": "\ud83d\udd34"
+        },
+        {
+            "number": 15,
+            "contract_name": "nancy",
+            "name": "00015 - PORT STE CATHERINE",
+            "address": "Angle rue Henri BAZIN et quai Sainte-Catherine",
+            "position": {
+                "lat": 48.6954870039528,
+                "lng": 6.1906794896667
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 16,
+            "available_bike_stands": 12,
+            "available_bikes": 4,
+            "status": "OPEN",
+            "last_update": 1729064666000,
+            "couleur": "orange",
+            "icone": "\ud83d\udfe0"
+        },
+        {
+            "number": 28,
+            "contract_name": "nancy",
+            "name": "00028 - MARCH\u00c9 D'HAUSSONVILLE",
+            "address": "Boulevard d'Haussonville",
+            "position": {
+                "lat": 48.67227619793021,
+                "lng": 6.165710709115886
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 15,
+            "available_bike_stands": 10,
+            "available_bikes": 5,
+            "status": "OPEN",
+            "last_update": 1729064952000,
+            "couleur": "orange",
+            "icone": "\ud83d\udfe0"
+        },
+        {
+            "number": 13,
+            "contract_name": "nancy",
+            "name": "00013 - SAINT NICOLAS - CHARLES III",
+            "address": "71 rue Saint-Nicolas",
+            "position": {
+                "lat": 48.688015,
+                "lng": 6.187451
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 16,
+            "available_bike_stands": 12,
+            "available_bikes": 4,
+            "status": "OPEN",
+            "last_update": 1729065207000,
+            "couleur": "orange",
+            "icone": "\ud83d\udfe0"
+        },
+        {
+            "number": 4,
+            "contract_name": "nancy",
+            "name": "00004 - MARCHE CENTRAL (CB)",
+            "address": "Angle rue Saint-Dizier - Rue du Dr SCHMITT",
+            "position": {
+                "lat": 48.6891733257851,
+                "lng": 6.18390463043762
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 18,
+            "available_bike_stands": 11,
+            "available_bikes": 7,
+            "status": "OPEN",
+            "last_update": 1729065068000,
+            "couleur": "orange",
+            "icone": "\ud83d\udfe0"
+        },
+        {
+            "number": 18,
+            "contract_name": "nancy",
+            "name": "00018 - GARE SAINT LEON",
+            "address": "Angle rue Saint-L\u00e9on - Esplanade Saint-L\u00e9on",
+            "position": {
+                "lat": 48.689560111075,
+                "lng": 6.17251545229862
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 20,
+            "available_bike_stands": 14,
+            "available_bikes": 6,
+            "status": "OPEN",
+            "last_update": 1729065173000,
+            "couleur": "orange",
+            "icone": "\ud83d\udfe0"
+        },
+        {
+            "number": 35,
+            "contract_name": "nancy",
+            "name": "00035 - MON DESERT",
+            "address": "Croisement rue Mon D\u00e9sert et Bd de l'American L\u00e9gion",
+            "position": {
+                "lat": 48.684141,
+                "lng": 6.176525
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 15,
+            "available_bike_stands": 12,
+            "available_bikes": 3,
+            "status": "OPEN",
+            "last_update": 1729065062000,
+            "couleur": "red",
+            "icone": "\ud83d\udd34"
+        },
+        {
+            "number": 12,
+            "contract_name": "nancy",
+            "name": "00012 - ST SEBASTIEN - ST THIEBAUT",
+            "address": "Angle rue Saint-Thiebaut et rue du Grand Rabbin HAGUENAUER",
+            "position": {
+                "lat": 48.6886141256403,
+                "lng": 6.17950010441818
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 22,
+            "available_bike_stands": 4,
+            "available_bikes": 18,
+            "status": "OPEN",
+            "last_update": 1729064783000,
+            "couleur": "green",
+            "icone": "\ud83d\udfe2"
+        },
+        {
+            "number": 22,
+            "contract_name": "nancy",
+            "name": "00022 - HOPITAL ST JULIEN",
+            "address": "Angle rue Molitor et rue Foller",
+            "position": {
+                "lat": 48.6858574026886,
+                "lng": 6.19290171469907
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 16,
+            "available_bike_stands": 7,
+            "available_bikes": 9,
+            "status": "OPEN",
+            "last_update": 1729065033000,
+            "couleur": "green",
+            "icone": "\ud83d\udfe2"
+        },
+        {
+            "number": 21,
+            "contract_name": "nancy",
+            "name": "00021 - HOPITAL CENTRAL",
+            "address": "45 avenue du Mar\u00e9chal de Lattre de Tassigny",
+            "position": {
+                "lat": 48.6833502130976,
+                "lng": 6.19029660801914
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 20,
+            "available_bike_stands": 10,
+            "available_bikes": 10,
+            "status": "OPEN",
+            "last_update": 1729065253000,
+            "couleur": "green",
+            "icone": "\ud83d\udfe2"
+        },
+        {
+            "number": 5,
+            "contract_name": "nancy",
+            "name": "00005 - PLACE COLONEL DRIANT",
+            "address": "Rue Drouin - Face au n\u00b02",
+            "position": {
+                "lat": 48.6921301,
+                "lng": 6.1872695
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 16,
+            "available_bike_stands": 7,
+            "available_bikes": 9,
+            "status": "OPEN",
+            "last_update": 1729065209000,
+            "couleur": "green",
+            "icone": "\ud83d\udfe2"
+        },
+        {
+            "number": 14,
+            "contract_name": "nancy",
+            "name": "00014 - FAC DE LETTRES",
+            "address": "Place Godefroy de Bouillon",
+            "position": {
+                "lat": 48.6928180794454,
+                "lng": 6.16860978784457
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 19,
+            "available_bike_stands": 12,
+            "available_bikes": 7,
+            "status": "OPEN",
+            "last_update": 1729064922000,
+            "couleur": "orange",
+            "icone": "\ud83d\udfe0"
+        },
+        {
+            "number": 16,
+            "contract_name": "nancy",
+            "name": "00016 - PORTE DE LA CRAFFE",
+            "address": "Angle rue du Haut Bourgeois et place des Bourgets",
+            "position": {
+                "lat": 48.6984724451821,
+                "lng": 6.17798553705909
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 20,
+            "available_bike_stands": 14,
+            "available_bikes": 6,
+            "status": "OPEN",
+            "last_update": 1729064780000,
+            "couleur": "orange",
+            "icone": "\ud83d\udfe0"
+        },
+        {
+            "number": 9,
+            "contract_name": "nancy",
+            "name": "00009 - PLACE BARROIS",
+            "address": "Place Barrois",
+            "position": {
+                "lat": 48.6995023285111,
+                "lng": 6.20473563987354
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 17,
+            "available_bike_stands": 15,
+            "available_bikes": 2,
+            "status": "OPEN",
+            "last_update": 1729065213000,
+            "couleur": "red",
+            "icone": "\ud83d\udd34"
+        },
+        {
+            "number": 36,
+            "contract_name": "nancy",
+            "name": "00036 - SAURUPT",
+            "address": "100 Avenue du G\u00e9n\u00e9ral Leclerc",
+            "position": {
+                "lat": 48.680516,
+                "lng": 6.181811
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 15,
+            "available_bike_stands": 15,
+            "available_bikes": 0,
+            "status": "OPEN",
+            "last_update": 1729064904000,
+            "couleur": "red",
+            "icone": "\ud83d\udd34"
+        },
+        {
+            "number": 34,
+            "contract_name": "nancy",
+            "name": "00034 - MALZEVILLE",
+            "address": "Square Waldstetten  en face du 6 rue Maurice Barr\u00e8s MALZEVILLE",
+            "position": {
+                "lat": 48.707187,
+                "lng": 6.185524
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 15,
+            "available_bike_stands": 7,
+            "available_bikes": 8,
+            "status": "OPEN",
+            "last_update": 1729064734000,
+            "couleur": "green",
+            "icone": "\ud83d\udfe2"
+        },
+        {
+            "number": 3,
+            "contract_name": "nancy",
+            "name": "00003 - PLACE DE DOMBASLE",
+            "address": "Rue Stanislas - Face au n\u00b068",
+            "position": {
+                "lat": 48.6919579483934,
+                "lng": 6.17851021950761
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 28,
+            "available_bike_stands": 27,
+            "available_bikes": 1,
+            "status": "OPEN",
+            "last_update": 1729064713000,
+            "couleur": "red",
+            "icone": "\ud83d\udd34"
+        },
+        {
+            "number": 26,
+            "contract_name": "nancy",
+            "name": "00026 - BAUDRICOURT HAUSSONVILLE",
+            "address": "Rue des 3 Epis Baudricourt",
+            "position": {
+                "lat": 48.675248491826174,
+                "lng": 6.162844844269929
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 15,
+            "available_bike_stands": 11,
+            "available_bikes": 4,
+            "status": "OPEN",
+            "last_update": 1729065250000,
+            "couleur": "orange",
+            "icone": "\ud83d\udfe0"
+        },
+        {
+            "number": 24,
+            "contract_name": "nancy",
+            "name": "00024 - 3 MAISONS - CHARLES V (CB)",
+            "address": "rue du faubourg des 3 Maisons - Angle boulevard Charles V",
+            "position": {
+                "lat": 48.701365,
+                "lng": 6.176824
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 23,
+            "available_bike_stands": 21,
+            "available_bikes": 2,
+            "status": "OPEN",
+            "last_update": 1729065242000,
+            "couleur": "red",
+            "icone": "\ud83d\udd34"
+        },
+        {
+            "number": 23,
+            "contract_name": "nancy",
+            "name": "00023 - PROMENADE DES CANAUX",
+            "address": "Promenade des Canaux",
+            "position": {
+                "lat": 48.6927939742599,
+                "lng": 6.19628435757015
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 16,
+            "available_bike_stands": 8,
+            "available_bikes": 8,
+            "status": "OPEN",
+            "last_update": 1729065090000,
+            "couleur": "green",
+            "icone": "\ud83d\udfe2"
+        },
+        {
+            "number": 7,
+            "contract_name": "nancy",
+            "name": "00007 - PLACE ST EPVRE",
+            "address": "Place du Colonel Fabien",
+            "position": {
+                "lat": 48.6952351,
+                "lng": 6.1798109
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 20,
+            "available_bike_stands": 17,
+            "available_bikes": 3,
+            "status": "OPEN",
+            "last_update": 1729065200000,
+            "couleur": "red",
+            "icone": "\ud83d\udd34"
+        },
+        {
+            "number": 32,
+            "contract_name": "nancy",
+            "name": "00032 - MEDREVILLE",
+            "address": "en face du 1 Boulevard Charlemagne Nancy",
+            "position": {
+                "lat": 48.685497,
+                "lng": 6.161015
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 15,
+            "available_bike_stands": 12,
+            "available_bikes": 3,
+            "status": "OPEN",
+            "last_update": 1729065266000,
+            "couleur": "red",
+            "icone": "\ud83d\udd34"
+        },
+        {
+            "number": 20,
+            "contract_name": "nancy",
+            "name": "00020 - PLACE DES VOSGES",
+            "address": "Angle avenue du G\u00e9n\u00e9ral Leclerc et rue du Mar\u00e9chal De Lattre de Tassigny",
+            "position": {
+                "lat": 48.684781,
+                "lng": 6.187631
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 15,
+            "available_bike_stands": 2,
+            "available_bikes": 13,
+            "status": "OPEN",
+            "last_update": 1729065261000,
+            "couleur": "green",
+            "icone": "\ud83d\udfe2"
+        },
+        {
+            "number": 37,
+            "contract_name": "nancy",
+            "name": "00037 - JARDINIERS - TIERCELINS",
+            "address": "En face du 19 rue des Jardiniers",
+            "position": {
+                "lat": 48.691291,
+                "lng": 6.190844
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 12,
+            "available_bike_stands": 12,
+            "available_bikes": 0,
+            "status": "OPEN",
+            "last_update": 1729065095000,
+            "couleur": "red",
+            "icone": "\ud83d\udd34"
+        },
+        {
+            "number": 31,
+            "contract_name": "nancy",
+            "name": "00031 - ARTEM",
+            "address": "en face du 119 rue du Sergent Blandan",
+            "position": {
+                "lat": 48.674665,
+                "lng": 6.170655
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 20,
+            "available_bike_stands": 0,
+            "available_bikes": 20,
+            "status": "OPEN",
+            "last_update": 1729065102000,
+            "couleur": "green",
+            "icone": "\ud83d\udfe2"
+        },
+        {
+            "number": 8,
+            "contract_name": "nancy",
+            "name": "00008 - COURS LEOPOLD - SAINT MICHEL",
+            "address": "Angle rue Saint-Michel et cours L\u00e9opold",
+            "position": {
+                "lat": 48.6956140662607,
+                "lng": 6.17676840786255
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 18,
+            "available_bike_stands": 6,
+            "available_bikes": 12,
+            "status": "OPEN",
+            "last_update": 1729065252000,
+            "couleur": "green",
+            "icone": "\ud83d\udfe2"
+        },
+        {
+            "number": 10,
+            "contract_name": "nancy",
+            "name": "00010 - GARE THIERS (CB)",
+            "address": "Rue Mazagran",
+            "position": {
+                "lat": 48.69037,
+                "lng": 6.175677
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 39,
+            "available_bike_stands": 23,
+            "available_bikes": 16,
+            "status": "OPEN",
+            "last_update": 1729065196000,
+            "couleur": "orange",
+            "icone": "\ud83d\udfe0"
+        },
+        {
+            "number": 2,
+            "contract_name": "nancy",
+            "name": "00002 - PLACE DE LA CARRIERE",
+            "address": "Angle Place de la Carri\u00e8re et rue des Mar\u00e9chaux",
+            "position": {
+                "lat": 48.6945981637388,
+                "lng": 6.18229408637817
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 16,
+            "available_bike_stands": 9,
+            "available_bikes": 7,
+            "status": "OPEN",
+            "last_update": 1729065257000,
+            "couleur": "orange",
+            "icone": "\ud83d\udfe0"
+        },
+        {
+            "number": 25,
+            "contract_name": "nancy",
+            "name": "00025 - PLACE COMMANDERIE",
+            "address": "Place de la Commanderie - Face au n\u00b013",
+            "position": {
+                "lat": 48.6859179816784,
+                "lng": 6.1674218161464
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 18,
+            "available_bike_stands": 18,
+            "available_bikes": 0,
+            "status": "OPEN",
+            "last_update": 1729065245000,
+            "couleur": "red",
+            "icone": "\ud83d\udd34"
+        },
+        {
+            "number": 17,
+            "contract_name": "nancy",
+            "name": "00017 - CONSERVATOIRE - MANUFACTURE",
+            "address": "27 rue Baron Louis - Angle quai Claude le Lorrain",
+            "position": {
+                "lat": 48.6957176856775,
+                "lng": 6.17133838702303
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 15,
+            "available_bike_stands": 3,
+            "available_bikes": 12,
+            "status": "OPEN",
+            "last_update": 1729065267000,
+            "couleur": "green",
+            "icone": "\ud83d\udfe2"
+        },
+        {
+            "number": 27,
+            "contract_name": "nancy",
+            "name": "00027 - NANCY THERMAL (CB)",
+            "address": "Rue du Sergent Blandan",
+            "position": {
+                "lat": 48.679501,
+                "lng": 6.167344
+            },
+            "banking": false,
+            "bonus": false,
+            "bike_stands": 18,
+            "available_bike_stands": 16,
+            "available_bikes": 2,
+            "status": "OPEN",
+            "last_update": 1729065232000,
+            "couleur": "red",
+            "icone": "\ud83d\udd34"
+        }
+    ],
+    "trajets_velo": [
+        {
+            "source": "00030 - NATIONS",
+            "destination": "00029 - VELODROME (CB)",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.6688708,
+                    6.1690636
+                ],
+                [
+                    48.6689077,
+                    6.1689799
+                ],
+                [
+                    48.6698422,
+                    6.1679656
+                ],
+                [
+                    48.6701707,
+                    6.1676354
+                ],
+                [
+                    48.6696585,
+                    6.1666569
+                ],
+                [
+                    48.6692614,
+                    6.1658866
+                ],
+                [
+                    48.6687424,
+                    6.1648995
+                ],
+                [
+                    48.668506,
+                    6.1644362
+                ],
+                [
+                    48.6684632,
+                    6.164339
+                ],
+                [
+                    48.668157,
+                    6.1646118
+                ],
+                [
+                    48.6680132,
+                    6.1647064
+                ],
+                [
+                    48.6676042,
+                    6.1651348
+                ],
+                [
+                    48.667445,
+                    6.1652723
+                ],
+                [
+                    48.6671181,
+                    6.1651109
+                ],
+                [
+                    48.6670968,
+                    6.1651793
+                ]
+            ],
+            "mode_transport": "velo"
+        },
+        {
+            "source": "00012 - ST SEBASTIEN - ST THIEBAUT",
+            "destination": "00001 - DOMINICAINS - FOURIER (CB)",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.6886421,
+                    6.1791472
+                ],
+                [
+                    48.6904075,
+                    6.1786987
+                ],
+                [
+                    48.6906097,
+                    6.1793437
+                ],
+                [
+                    48.6908425,
+                    6.1800863
+                ],
+                [
+                    48.6914221,
+                    6.1796613
+                ],
+                [
+                    48.691842,
+                    6.1793534
+                ],
+                [
+                    48.6920931,
+                    6.1801298
+                ],
+                [
+                    48.6924487,
+                    6.1812132
+                ],
+                [
+                    48.6926175,
+                    6.1817269
+                ],
+                [
+                    48.6929152,
+                    6.1828193
+                ],
+                [
+                    48.692438,
+                    6.1831569
+                ]
+            ],
+            "mode_transport": "velo"
+        },
+        {
+            "source": "00022 - HOPITAL ST JULIEN",
+            "destination": "00033 - LAXOU MAIRIE",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.6859673,
+                    6.1928159
+                ],
+                [
+                    48.6860298,
+                    6.1925612
+                ],
+                [
+                    48.6860842,
+                    6.1923441
+                ],
+                [
+                    48.6861842,
+                    6.1921115
+                ],
+                [
+                    48.6862534,
+                    6.192003
+                ],
+                [
+                    48.6862347,
+                    6.1918713
+                ],
+                [
+                    48.6861633,
+                    6.1918143
+                ],
+                [
+                    48.6860002,
+                    6.1913772
+                ],
+                [
+                    48.6855719,
+                    6.1905721
+                ],
+                [
+                    48.6863563,
+                    6.1884142
+                ],
+                [
+                    48.6864301,
+                    6.188147
+                ],
+                [
+                    48.686119,
+                    6.1878819
+                ],
+                [
+                    48.6855259,
+                    6.186173
+                ],
+                [
+                    48.6857444,
+                    6.1861563
+                ],
+                [
+                    48.6853905,
+                    6.1850191
+                ],
+                [
+                    48.6856631,
+                    6.1848205
+                ],
+                [
+                    48.6864953,
+                    6.1842192
+                ],
+                [
+                    48.6873739,
+                    6.1835709
+                ],
+                [
+                    48.6874726,
+                    6.1834961
+                ],
+                [
+                    48.6872431,
+                    6.1827084
+                ],
+                [
+                    48.6869925,
+                    6.181912
+                ],
+                [
+                    48.6869694,
+                    6.18184
+                ],
+                [
+                    48.6869003,
+                    6.1816047
+                ],
+                [
+                    48.6866207,
+                    6.1806783
+                ],
+                [
+                    48.6864283,
+                    6.1800466
+                ],
+                [
+                    48.6863118,
+                    6.1796635
+                ],
+                [
+                    48.6864367,
+                    6.1795701
+                ],
+                [
+                    48.6868943,
+                    6.1792457
+                ],
+                [
+                    48.687219,
+                    6.179029
+                ],
+                [
+                    48.6873318,
+                    6.1790066
+                ],
+                [
+                    48.6873643,
+                    6.1789949
+                ],
+                [
+                    48.6876973,
+                    6.178479
+                ],
+                [
+                    48.6877845,
+                    6.178365
+                ],
+                [
+                    48.6881056,
+                    6.1779473
+                ],
+                [
+                    48.6882135,
+                    6.1778154
+                ],
+                [
+                    48.6885478,
+                    6.1773833
+                ],
+                [
+                    48.6886797,
+                    6.1772093
+                ],
+                [
+                    48.6894079,
+                    6.1763483
+                ],
+                [
+                    48.6898752,
+                    6.1760077
+                ],
+                [
+                    48.6901264,
+                    6.1758252
+                ],
+                [
+                    48.690603,
+                    6.1755173
+                ],
+                [
+                    48.6910288,
+                    6.1751735
+                ],
+                [
+                    48.6909859,
+                    6.1750004
+                ],
+                [
+                    48.6908214,
+                    6.1744549
+                ],
+                [
+                    48.6907603,
+                    6.1742199
+                ],
+                [
+                    48.6907528,
+                    6.1741943
+                ],
+                [
+                    48.6905839,
+                    6.1736289
+                ],
+                [
+                    48.6904009,
+                    6.1730238
+                ],
+                [
+                    48.6903783,
+                    6.1729479
+                ],
+                [
+                    48.6901388,
+                    6.1721573
+                ],
+                [
+                    48.690033,
+                    6.17182
+                ],
+                [
+                    48.689916,
+                    6.1714425
+                ],
+                [
+                    48.6896973,
+                    6.1707106
+                ],
+                [
+                    48.6896455,
+                    6.1705424
+                ],
+                [
+                    48.6896265,
+                    6.1704806
+                ],
+                [
+                    48.6896003,
+                    6.1703956
+                ],
+                [
+                    48.6893981,
+                    6.1697332
+                ],
+                [
+                    48.6892534,
+                    6.1692545
+                ],
+                [
+                    48.6890519,
+                    6.1685798
+                ],
+                [
+                    48.6887012,
+                    6.1674342
+                ],
+                [
+                    48.68851,
+                    6.1668044
+                ],
+                [
+                    48.6883407,
+                    6.1662442
+                ],
+                [
+                    48.6883032,
+                    6.166122
+                ],
+                [
+                    48.68822,
+                    6.16586
+                ],
+                [
+                    48.6873458,
+                    6.1630078
+                ],
+                [
+                    48.6869526,
+                    6.1617083
+                ],
+                [
+                    48.6865654,
+                    6.1604497
+                ],
+                [
+                    48.6861941,
+                    6.1592296
+                ],
+                [
+                    48.6858315,
+                    6.1580386
+                ]
+            ],
+            "mode_transport": "velo"
+        },
+        {
+            "source": "00021 - HOPITAL CENTRAL",
+            "destination": "00006 - LES 2 RIVES",
+            "source_color": "green",
+            "destination_color": "red",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udd34",
+            "path": [
+                [
+                    48.6833622,
+                    6.1901899
+                ],
+                [
+                    48.6835767,
+                    6.189837
+                ],
+                [
+                    48.683689,
+                    6.1896365
+                ],
+                [
+                    48.683907,
+                    6.1892387
+                ],
+                [
+                    48.6842826,
+                    6.1885714
+                ],
+                [
+                    48.6845149,
+                    6.188837
+                ],
+                [
+                    48.6847679,
+                    6.189467
+                ],
+                [
+                    48.6850199,
+                    6.1899093
+                ],
+                [
+                    48.6855719,
+                    6.1905721
+                ],
+                [
+                    48.6860002,
+                    6.1913772
+                ],
+                [
+                    48.6860808,
+                    6.1918656
+                ],
+                [
+                    48.6860563,
+                    6.1919791
+                ],
+                [
+                    48.6860744,
+                    6.1920537
+                ],
+                [
+                    48.6860925,
+                    6.192083
+                ],
+                [
+                    48.6861842,
+                    6.1921115
+                ],
+                [
+                    48.6862534,
+                    6.192003
+                ],
+                [
+                    48.6865329,
+                    6.1918995
+                ],
+                [
+                    48.6867631,
+                    6.1917472
+                ],
+                [
+                    48.6873427,
+                    6.1915284
+                ],
+                [
+                    48.6876045,
+                    6.1915702
+                ],
+                [
+                    48.6879236,
+                    6.1917103
+                ],
+                [
+                    48.6885438,
+                    6.1918487
+                ],
+                [
+                    48.6889477,
+                    6.1919074
+                ],
+                [
+                    48.6895466,
+                    6.1937865
+                ],
+                [
+                    48.6898801,
+                    6.1936232
+                ],
+                [
+                    48.6910753,
+                    6.1930367
+                ],
+                [
+                    48.6913623,
+                    6.1929062
+                ],
+                [
+                    48.6914627,
+                    6.1928628
+                ],
+                [
+                    48.691707,
+                    6.1928412
+                ],
+                [
+                    48.6918034,
+                    6.1932044
+                ],
+                [
+                    48.692204,
+                    6.1948111
+                ],
+                [
+                    48.6924936,
+                    6.1955735
+                ],
+                [
+                    48.6926758,
+                    6.1958974
+                ],
+                [
+                    48.6930002,
+                    6.1965331
+                ],
+                [
+                    48.6934612,
+                    6.1973996
+                ],
+                [
+                    48.6935227,
+                    6.197326
+                ],
+                [
+                    48.6936172,
+                    6.1974845
+                ],
+                [
+                    48.6941824,
+                    6.1968081
+                ],
+                [
+                    48.6944455,
+                    6.1964834
+                ],
+                [
+                    48.6954591,
+                    6.1952325
+                ]
+            ],
+            "mode_transport": "velo"
+        },
+        {
+            "source": "00005 - PLACE COLONEL DRIANT",
+            "destination": "00019 - COMMANDERIE - CHALNOT",
+            "source_color": "green",
+            "destination_color": "red",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udd34",
+            "path": [
+                [
+                    48.6920023,
+                    6.1871963
+                ],
+                [
+                    48.6913316,
+                    6.1876948
+                ],
+                [
+                    48.690459,
+                    6.1883517
+                ],
+                [
+                    48.6902797,
+                    6.1877123
+                ],
+                [
+                    48.6902445,
+                    6.187585
+                ],
+                [
+                    48.6901058,
+                    6.1870904
+                ],
+                [
+                    48.6900291,
+                    6.1868049
+                ],
+                [
+                    48.6898342,
+                    6.1861369
+                ],
+                [
+                    48.6896316,
+                    6.1854262
+                ],
+                [
+                    48.6895111,
+                    6.1849926
+                ],
+                [
+                    48.6889149,
+                    6.1855986
+                ],
+                [
+                    48.6884635,
+                    6.184194
+                ],
+                [
+                    48.6881018,
+                    6.1830319
+                ],
+                [
+                    48.6874726,
+                    6.1834961
+                ],
+                [
+                    48.6872431,
+                    6.1827084
+                ],
+                [
+                    48.6869925,
+                    6.181912
+                ],
+                [
+                    48.6869694,
+                    6.18184
+                ],
+                [
+                    48.6869003,
+                    6.1816047
+                ],
+                [
+                    48.6866207,
+                    6.1806783
+                ],
+                [
+                    48.6855832,
+                    6.1813597
+                ],
+                [
+                    48.685527,
+                    6.1811896
+                ],
+                [
+                    48.6853493,
+                    6.1806452
+                ],
+                [
+                    48.6852856,
+                    6.180408
+                ],
+                [
+                    48.6851488,
+                    6.1800808
+                ],
+                [
+                    48.6849604,
+                    6.1798685
+                ],
+                [
+                    48.6848786,
+                    6.1796041
+                ],
+                [
+                    48.685453,
+                    6.1779207
+                ],
+                [
+                    48.6854225,
+                    6.1772053
+                ],
+                [
+                    48.6853527,
+                    6.1770189
+                ],
+                [
+                    48.6851107,
+                    6.1763903
+                ],
+                [
+                    48.6849892,
+                    6.1760139
+                ],
+                [
+                    48.6849503,
+                    6.1755084
+                ],
+                [
+                    48.6849406,
+                    6.1753833
+                ],
+                [
+                    48.6849005,
+                    6.1749299
+                ],
+                [
+                    48.6848946,
+                    6.1748699
+                ],
+                [
+                    48.6848524,
+                    6.1744382
+                ],
+                [
+                    48.684784,
+                    6.1739418
+                ],
+                [
+                    48.6847327,
+                    6.1736783
+                ],
+                [
+                    48.6851448,
+                    6.173551
+                ],
+                [
+                    48.6857265,
+                    6.173253
+                ],
+                [
+                    48.6858432,
+                    6.1731643
+                ],
+                [
+                    48.6862718,
+                    6.1727509
+                ],
+                [
+                    48.6863023,
+                    6.1727173
+                ],
+                [
+                    48.6869115,
+                    6.1720825
+                ],
+                [
+                    48.686931,
+                    6.1721139
+                ]
+            ],
+            "mode_transport": "velo"
+        },
+        {
+            "source": "00034 - MALZEVILLE",
+            "destination": "00015 - PORT STE CATHERINE",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.7051371,
+                    6.1853737
+                ],
+                [
+                    48.7048767,
+                    6.185424
+                ],
+                [
+                    48.7039412,
+                    6.1882558
+                ],
+                [
+                    48.7027922,
+                    6.1900027
+                ],
+                [
+                    48.7027752,
+                    6.1900289
+                ],
+                [
+                    48.7020738,
+                    6.1911601
+                ],
+                [
+                    48.6991466,
+                    6.1934774
+                ],
+                [
+                    48.6990904,
+                    6.1934286
+                ],
+                [
+                    48.6990349,
+                    6.1933822
+                ],
+                [
+                    48.6990045,
+                    6.1933562
+                ],
+                [
+                    48.69878,
+                    6.1931732
+                ],
+                [
+                    48.6985754,
+                    6.1925784
+                ],
+                [
+                    48.6983697,
+                    6.1925786
+                ],
+                [
+                    48.6983002,
+                    6.192591
+                ],
+                [
+                    48.6964715,
+                    6.1929554
+                ],
+                [
+                    48.696132,
+                    6.1918088
+                ],
+                [
+                    48.6961237,
+                    6.191781
+                ],
+                [
+                    48.6961015,
+                    6.1917092
+                ],
+                [
+                    48.696005,
+                    6.1913941
+                ],
+                [
+                    48.6958823,
+                    6.1914676
+                ],
+                [
+                    48.6952031,
+                    6.191151
+                ],
+                [
+                    48.6951434,
+                    6.1908527
+                ],
+                [
+                    48.6953138,
+                    6.1905647
+                ]
+            ],
+            "mode_transport": "velo"
+        },
+        {
+            "source": "00023 - PROMENADE DES CANAUX",
+            "destination": "00028 - MARCH\u00c9 D'HAUSSONVILLE",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.6929203,
+                    6.1966299
+                ],
+                [
+                    48.6930002,
+                    6.1965331
+                ],
+                [
+                    48.6926758,
+                    6.1958974
+                ],
+                [
+                    48.6924936,
+                    6.1955735
+                ],
+                [
+                    48.692204,
+                    6.1948111
+                ],
+                [
+                    48.6918034,
+                    6.1932044
+                ],
+                [
+                    48.691707,
+                    6.1928412
+                ],
+                [
+                    48.6916685,
+                    6.1926815
+                ],
+                [
+                    48.6911973,
+                    6.19096
+                ],
+                [
+                    48.6906124,
+                    6.188895
+                ],
+                [
+                    48.690459,
+                    6.1883517
+                ],
+                [
+                    48.6899468,
+                    6.1887345
+                ],
+                [
+                    48.6897187,
+                    6.1889025
+                ],
+                [
+                    48.6894708,
+                    6.1881409
+                ],
+                [
+                    48.6889252,
+                    6.1885474
+                ],
+                [
+                    48.6881699,
+                    6.1890926
+                ],
+                [
+                    48.6880288,
+                    6.1890362
+                ],
+                [
+                    48.6874031,
+                    6.18881
+                ],
+                [
+                    48.6873046,
+                    6.1887708
+                ],
+                [
+                    48.6871377,
+                    6.1886566
+                ],
+                [
+                    48.6871478,
+                    6.1885938
+                ],
+                [
+                    48.6871273,
+                    6.1885365
+                ],
+                [
+                    48.6870441,
+                    6.1885477
+                ],
+                [
+                    48.6864301,
+                    6.188147
+                ],
+                [
+                    48.686119,
+                    6.1878819
+                ],
+                [
+                    48.6855259,
+                    6.186173
+                ],
+                [
+                    48.6857444,
+                    6.1861563
+                ],
+                [
+                    48.6853905,
+                    6.1850191
+                ],
+                [
+                    48.6840651,
+                    6.1860023
+                ],
+                [
+                    48.6839205,
+                    6.1858425
+                ],
+                [
+                    48.6836227,
+                    6.1855043
+                ],
+                [
+                    48.6833695,
+                    6.1852213
+                ],
+                [
+                    48.6830054,
+                    6.1847863
+                ],
+                [
+                    48.6829429,
+                    6.1847111
+                ],
+                [
+                    48.6825665,
+                    6.1842865
+                ],
+                [
+                    48.6818652,
+                    6.183477
+                ],
+                [
+                    48.6818259,
+                    6.1834383
+                ],
+                [
+                    48.6815616,
+                    6.1831582
+                ],
+                [
+                    48.6805505,
+                    6.1819982
+                ],
+                [
+                    48.6801216,
+                    6.1815112
+                ],
+                [
+                    48.6799427,
+                    6.1813103
+                ],
+                [
+                    48.6789336,
+                    6.1801982
+                ],
+                [
+                    48.6788262,
+                    6.1800802
+                ],
+                [
+                    48.6787613,
+                    6.1799756
+                ],
+                [
+                    48.6783352,
+                    6.1794712
+                ],
+                [
+                    48.6778758,
+                    6.1789589
+                ],
+                [
+                    48.677016,
+                    6.1779804
+                ],
+                [
+                    48.6769711,
+                    6.1779322
+                ],
+                [
+                    48.6766789,
+                    6.1776167
+                ],
+                [
+                    48.67616,
+                    6.1770385
+                ],
+                [
+                    48.6759537,
+                    6.1768072
+                ],
+                [
+                    48.6756005,
+                    6.1763922
+                ],
+                [
+                    48.6755012,
+                    6.1762656
+                ],
+                [
+                    48.6753861,
+                    6.1761336
+                ],
+                [
+                    48.6750941,
+                    6.1758399
+                ],
+                [
+                    48.6748846,
+                    6.1756058
+                ],
+                [
+                    48.6744541,
+                    6.17513
+                ],
+                [
+                    48.6739702,
+                    6.1745964
+                ],
+                [
+                    48.6733791,
+                    6.173926
+                ],
+                [
+                    48.6728923,
+                    6.1733998
+                ],
+                [
+                    48.6734042,
+                    6.1728799
+                ],
+                [
+                    48.6730348,
+                    6.1719196
+                ],
+                [
+                    48.6730061,
+                    6.1718296
+                ],
+                [
+                    48.6728108,
+                    6.1710767
+                ],
+                [
+                    48.6728012,
+                    6.1709816
+                ],
+                [
+                    48.672773,
+                    6.1708679
+                ],
+                [
+                    48.6729549,
+                    6.17057
+                ],
+                [
+                    48.6730948,
+                    6.1704643
+                ],
+                [
+                    48.6732913,
+                    6.1701419
+                ],
+                [
+                    48.6732692,
+                    6.1700216
+                ],
+                [
+                    48.673189,
+                    6.1695845
+                ],
+                [
+                    48.6730866,
+                    6.1692677
+                ],
+                [
+                    48.6728135,
+                    6.1684384
+                ],
+                [
+                    48.6721577,
+                    6.1664156
+                ],
+                [
+                    48.6719961,
+                    6.1659305
+                ],
+                [
+                    48.6720096,
+                    6.1657468
+                ]
+            ],
+            "mode_transport": "velo"
+        },
+        {
+            "source": "00020 - PLACE DES VOSGES",
+            "destination": "00013 - SAINT NICOLAS - CHARLES III",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.6845504,
+                    6.1880606
+                ],
+                [
+                    48.6850384,
+                    6.1871277
+                ],
+                [
+                    48.6855259,
+                    6.186173
+                ],
+                [
+                    48.6857444,
+                    6.1861563
+                ],
+                [
+                    48.686861,
+                    6.1853768
+                ],
+                [
+                    48.6871193,
+                    6.1862546
+                ],
+                [
+                    48.6876474,
+                    6.1878449
+                ]
+            ],
+            "mode_transport": "velo"
+        },
+        {
+            "source": "00031 - ARTEM",
+            "destination": "00004 - MARCHE CENTRAL (CB)",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.6745033,
+                    6.1708152
+                ],
+                [
+                    48.6749664,
+                    6.1721944
+                ],
+                [
+                    48.6753167,
+                    6.1732505
+                ],
+                [
+                    48.6744923,
+                    6.1740802
+                ],
+                [
+                    48.6742642,
+                    6.1743064
+                ],
+                [
+                    48.6739702,
+                    6.1745964
+                ],
+                [
+                    48.6739437,
+                    6.1746478
+                ],
+                [
+                    48.674427,
+                    6.1751904
+                ],
+                [
+                    48.6748551,
+                    6.1756676
+                ],
+                [
+                    48.6750643,
+                    6.1759006
+                ],
+                [
+                    48.6754446,
+                    6.1763273
+                ],
+                [
+                    48.6759259,
+                    6.1768623
+                ],
+                [
+                    48.6761261,
+                    6.1770853
+                ],
+                [
+                    48.6766515,
+                    6.1776746
+                ],
+                [
+                    48.6769169,
+                    6.1779721
+                ],
+                [
+                    48.6769623,
+                    6.1780235
+                ],
+                [
+                    48.6783072,
+                    6.1795274
+                ],
+                [
+                    48.6786426,
+                    6.1799007
+                ],
+                [
+                    48.6787523,
+                    6.1800999
+                ],
+                [
+                    48.6788196,
+                    6.1801643
+                ],
+                [
+                    48.6789336,
+                    6.1801982
+                ],
+                [
+                    48.6799427,
+                    6.1813103
+                ],
+                [
+                    48.6801216,
+                    6.1815112
+                ],
+                [
+                    48.6805505,
+                    6.1819982
+                ],
+                [
+                    48.6815616,
+                    6.1831582
+                ],
+                [
+                    48.6818259,
+                    6.1834383
+                ],
+                [
+                    48.6818652,
+                    6.183477
+                ],
+                [
+                    48.6825665,
+                    6.1842865
+                ],
+                [
+                    48.6829429,
+                    6.1847111
+                ],
+                [
+                    48.6830054,
+                    6.1847863
+                ],
+                [
+                    48.6833695,
+                    6.1852213
+                ],
+                [
+                    48.6836227,
+                    6.1855043
+                ],
+                [
+                    48.6839205,
+                    6.1858425
+                ],
+                [
+                    48.6840651,
+                    6.1860023
+                ],
+                [
+                    48.6850384,
+                    6.1871277
+                ],
+                [
+                    48.6855259,
+                    6.186173
+                ],
+                [
+                    48.6857444,
+                    6.1861563
+                ],
+                [
+                    48.686861,
+                    6.1853768
+                ],
+                [
+                    48.6877366,
+                    6.1847303
+                ],
+                [
+                    48.6884635,
+                    6.184194
+                ],
+                [
+                    48.6891672,
+                    6.1836753
+                ]
+            ],
+            "mode_transport": "velo"
+        },
+        {
+            "source": "00008 - COURS LEOPOLD - SAINT MICHEL",
+            "destination": "00018 - GARE SAINT LEON",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.6956951,
+                    6.1765829
+                ],
+                [
+                    48.6964316,
+                    6.1760575
+                ],
+                [
+                    48.6970405,
+                    6.1756217
+                ],
+                [
+                    48.6966357,
+                    6.1743309
+                ],
+                [
+                    48.6938958,
+                    6.1762923
+                ],
+                [
+                    48.6926196,
+                    6.1771784
+                ],
+                [
+                    48.6923163,
+                    6.1773315
+                ],
+                [
+                    48.6918742,
+                    6.1778101
+                ],
+                [
+                    48.6912621,
+                    6.175266
+                ],
+                [
+                    48.6910288,
+                    6.1751735
+                ],
+                [
+                    48.6905839,
+                    6.1736289
+                ],
+                [
+                    48.6903783,
+                    6.1729479
+                ],
+                [
+                    48.690033,
+                    6.17182
+                ]
+            ],
+            "mode_transport": "velo"
+        },
+        {
+            "source": "00017 - CONSERVATOIRE - MANUFACTURE",
+            "destination": "00035 - MON DESERT",
+            "source_color": "green",
+            "destination_color": "red",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udd34",
+            "path": [
+                [
+                    48.6958396,
+                    6.1713725
+                ],
+                [
+                    48.6957694,
+                    6.1710337
+                ],
+                [
+                    48.6957158,
+                    6.1710523
+                ],
+                [
+                    48.6953358,
+                    6.1712254
+                ],
+                [
+                    48.6922125,
+                    6.1725979
+                ],
+                [
+                    48.691475,
+                    6.173024
+                ],
+                [
+                    48.6905839,
+                    6.1736289
+                ],
+                [
+                    48.6904009,
+                    6.1730238
+                ],
+                [
+                    48.6903783,
+                    6.1729479
+                ],
+                [
+                    48.6901388,
+                    6.1721573
+                ],
+                [
+                    48.690033,
+                    6.17182
+                ],
+                [
+                    48.689916,
+                    6.1714425
+                ],
+                [
+                    48.6896973,
+                    6.1707106
+                ],
+                [
+                    48.6896455,
+                    6.1705424
+                ],
+                [
+                    48.6896265,
+                    6.1704806
+                ],
+                [
+                    48.6896003,
+                    6.1703956
+                ],
+                [
+                    48.6893981,
+                    6.1697332
+                ],
+                [
+                    48.6875937,
+                    6.1707456
+                ],
+                [
+                    48.6875077,
+                    6.1707836
+                ],
+                [
+                    48.6874896,
+                    6.1708545
+                ],
+                [
+                    48.6867533,
+                    6.1712615
+                ],
+                [
+                    48.686647,
+                    6.1713264
+                ],
+                [
+                    48.685853,
+                    6.1718782
+                ],
+                [
+                    48.6855356,
+                    6.1720973
+                ],
+                [
+                    48.6854015,
+                    6.1721913
+                ],
+                [
+                    48.6845163,
+                    6.1727898
+                ],
+                [
+                    48.6844314,
+                    6.1728475
+                ],
+                [
+                    48.6839361,
+                    6.1731889
+                ],
+                [
+                    48.6835508,
+                    6.1734551
+                ],
+                [
+                    48.6834374,
+                    6.1735343
+                ],
+                [
+                    48.6837198,
+                    6.1749064
+                ],
+                [
+                    48.6840193,
+                    6.1763168
+                ],
+                [
+                    48.6841045,
+                    6.1767222
+                ]
+            ],
+            "mode_transport": "velo"
+        }
+    ],
+    "trajets_camion": [
+        {
+            "source": "00030 - NATIONS",
+            "destination": "00029 - VELODROME (CB)",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.6689077,
+                    6.1689799
+                ],
+                [
+                    48.6701707,
+                    6.1676354
+                ],
+                [
+                    48.6696585,
+                    6.1666569
+                ],
+                [
+                    48.6692614,
+                    6.1658866
+                ],
+                [
+                    48.6684632,
+                    6.164339
+                ],
+                [
+                    48.668157,
+                    6.1646118
+                ],
+                [
+                    48.6680132,
+                    6.1647064
+                ],
+                [
+                    48.6676042,
+                    6.1651348
+                ],
+                [
+                    48.667445,
+                    6.1652723
+                ],
+                [
+                    48.6670715,
+                    6.1650779
+                ]
+            ],
+            "mode_transport": "camion"
+        },
+        {
+            "source": "00012 - ST SEBASTIEN - ST THIEBAUT",
+            "destination": "00001 - DOMINICAINS - FOURIER (CB)",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.6886421,
+                    6.1791472
+                ],
+                [
+                    48.6866207,
+                    6.1806783
+                ],
+                [
+                    48.6872431,
+                    6.1827084
+                ],
+                [
+                    48.6874726,
+                    6.1834961
+                ],
+                [
+                    48.6873739,
+                    6.1835709
+                ],
+                [
+                    48.6864953,
+                    6.1842192
+                ],
+                [
+                    48.686861,
+                    6.1853768
+                ],
+                [
+                    48.6873518,
+                    6.1869173
+                ],
+                [
+                    48.6876474,
+                    6.1878449
+                ],
+                [
+                    48.6878095,
+                    6.1883586
+                ],
+                [
+                    48.6886823,
+                    6.187737
+                ],
+                [
+                    48.6893165,
+                    6.187292
+                ],
+                [
+                    48.689427,
+                    6.1872195
+                ],
+                [
+                    48.6900291,
+                    6.1868049
+                ],
+                [
+                    48.6898342,
+                    6.1861369
+                ],
+                [
+                    48.6896316,
+                    6.1854262
+                ],
+                [
+                    48.692162,
+                    6.1839724
+                ],
+                [
+                    48.6924693,
+                    6.1849821
+                ],
+                [
+                    48.6928802,
+                    6.1846067
+                ],
+                [
+                    48.6926054,
+                    6.1837195
+                ],
+                [
+                    48.6925437,
+                    6.1835115
+                ]
+            ],
+            "mode_transport": "camion"
+        },
+        {
+            "source": "00022 - HOPITAL ST JULIEN",
+            "destination": "00033 - LAXOU MAIRIE",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.6859673,
+                    6.1928159
+                ],
+                [
+                    48.6860298,
+                    6.1925612
+                ],
+                [
+                    48.6860842,
+                    6.1923441
+                ],
+                [
+                    48.6861842,
+                    6.1921115
+                ],
+                [
+                    48.6862534,
+                    6.192003
+                ],
+                [
+                    48.6862347,
+                    6.1918713
+                ],
+                [
+                    48.6861633,
+                    6.1918143
+                ],
+                [
+                    48.6860002,
+                    6.1913772
+                ],
+                [
+                    48.6855719,
+                    6.1905721
+                ],
+                [
+                    48.6845149,
+                    6.188837
+                ],
+                [
+                    48.6842826,
+                    6.1885714
+                ],
+                [
+                    48.6850384,
+                    6.1871277
+                ],
+                [
+                    48.6857444,
+                    6.1861563
+                ],
+                [
+                    48.6853905,
+                    6.1850191
+                ],
+                [
+                    48.6856631,
+                    6.1848205
+                ],
+                [
+                    48.6864953,
+                    6.1842192
+                ],
+                [
+                    48.6873739,
+                    6.1835709
+                ],
+                [
+                    48.6874726,
+                    6.1834961
+                ],
+                [
+                    48.6872431,
+                    6.1827084
+                ],
+                [
+                    48.6866207,
+                    6.1806783
+                ],
+                [
+                    48.6863118,
+                    6.1796635
+                ],
+                [
+                    48.687219,
+                    6.179029
+                ],
+                [
+                    48.6882135,
+                    6.1778154
+                ],
+                [
+                    48.6894079,
+                    6.1763483
+                ],
+                [
+                    48.690603,
+                    6.1755173
+                ],
+                [
+                    48.6910288,
+                    6.1751735
+                ],
+                [
+                    48.6905839,
+                    6.1736289
+                ],
+                [
+                    48.6903783,
+                    6.1729479
+                ],
+                [
+                    48.690033,
+                    6.17182
+                ],
+                [
+                    48.6893981,
+                    6.1697332
+                ],
+                [
+                    48.6890519,
+                    6.1685798
+                ],
+                [
+                    48.6887012,
+                    6.1674342
+                ],
+                [
+                    48.68851,
+                    6.1668044
+                ],
+                [
+                    48.6883407,
+                    6.1662442
+                ],
+                [
+                    48.6883032,
+                    6.166122
+                ],
+                [
+                    48.68822,
+                    6.16586
+                ],
+                [
+                    48.6873458,
+                    6.1630078
+                ],
+                [
+                    48.6869526,
+                    6.1617083
+                ],
+                [
+                    48.6865654,
+                    6.1604497
+                ],
+                [
+                    48.6861941,
+                    6.1592296
+                ],
+                [
+                    48.6858315,
+                    6.1580386
+                ]
+            ],
+            "mode_transport": "camion"
+        },
+        {
+            "source": "00021 - HOPITAL CENTRAL",
+            "destination": "00006 - LES 2 RIVES",
+            "source_color": "green",
+            "destination_color": "red",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udd34",
+            "path": [
+                [
+                    48.6833622,
+                    6.1901899
+                ],
+                [
+                    48.6835767,
+                    6.189837
+                ],
+                [
+                    48.683689,
+                    6.1896365
+                ],
+                [
+                    48.683907,
+                    6.1892387
+                ],
+                [
+                    48.6842826,
+                    6.1885714
+                ],
+                [
+                    48.6845149,
+                    6.188837
+                ],
+                [
+                    48.6855719,
+                    6.1905721
+                ],
+                [
+                    48.6860002,
+                    6.1913772
+                ],
+                [
+                    48.6860808,
+                    6.1918656
+                ],
+                [
+                    48.6860925,
+                    6.192083
+                ],
+                [
+                    48.6861842,
+                    6.1921115
+                ],
+                [
+                    48.6862534,
+                    6.192003
+                ],
+                [
+                    48.6865329,
+                    6.1918995
+                ],
+                [
+                    48.6889477,
+                    6.1919074
+                ],
+                [
+                    48.6895466,
+                    6.1937865
+                ],
+                [
+                    48.6898801,
+                    6.1936232
+                ],
+                [
+                    48.6914627,
+                    6.1928628
+                ],
+                [
+                    48.691707,
+                    6.1928412
+                ],
+                [
+                    48.691937,
+                    6.1928513
+                ],
+                [
+                    48.6920564,
+                    6.1928824
+                ],
+                [
+                    48.6937495,
+                    6.1919255
+                ],
+                [
+                    48.6949692,
+                    6.1941226
+                ],
+                [
+                    48.6954198,
+                    6.1950163
+                ]
+            ],
+            "mode_transport": "camion"
+        },
+        {
+            "source": "00005 - PLACE COLONEL DRIANT",
+            "destination": "00019 - COMMANDERIE - CHALNOT",
+            "source_color": "green",
+            "destination_color": "red",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udd34",
+            "path": [
+                [
+                    48.6920023,
+                    6.1871963
+                ],
+                [
+                    48.6913316,
+                    6.1876948
+                ],
+                [
+                    48.690459,
+                    6.1883517
+                ],
+                [
+                    48.6902797,
+                    6.1877123
+                ],
+                [
+                    48.6902445,
+                    6.187585
+                ],
+                [
+                    48.6901058,
+                    6.1870904
+                ],
+                [
+                    48.6900291,
+                    6.1868049
+                ],
+                [
+                    48.6898342,
+                    6.1861369
+                ],
+                [
+                    48.6896316,
+                    6.1854262
+                ],
+                [
+                    48.6895111,
+                    6.1849926
+                ],
+                [
+                    48.6889149,
+                    6.1855986
+                ],
+                [
+                    48.6884635,
+                    6.184194
+                ],
+                [
+                    48.6881018,
+                    6.1830319
+                ],
+                [
+                    48.6874726,
+                    6.1834961
+                ],
+                [
+                    48.6872431,
+                    6.1827084
+                ],
+                [
+                    48.6866207,
+                    6.1806783
+                ],
+                [
+                    48.6855832,
+                    6.1813597
+                ],
+                [
+                    48.6852856,
+                    6.180408
+                ],
+                [
+                    48.6849604,
+                    6.1798685
+                ],
+                [
+                    48.6848786,
+                    6.1796041
+                ],
+                [
+                    48.685453,
+                    6.1779207
+                ],
+                [
+                    48.6849892,
+                    6.1760139
+                ],
+                [
+                    48.6849406,
+                    6.1753833
+                ],
+                [
+                    48.684784,
+                    6.1739418
+                ],
+                [
+                    48.6847327,
+                    6.1736783
+                ],
+                [
+                    48.6851448,
+                    6.173551
+                ],
+                [
+                    48.6857265,
+                    6.173253
+                ],
+                [
+                    48.6858432,
+                    6.1731643
+                ],
+                [
+                    48.6863023,
+                    6.1727173
+                ],
+                [
+                    48.6869115,
+                    6.1720825
+                ]
+            ],
+            "mode_transport": "camion"
+        },
+        {
+            "source": "00034 - MALZEVILLE",
+            "destination": "00015 - PORT STE CATHERINE",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.7047491,
+                    6.183719
+                ],
+                [
+                    48.7027752,
+                    6.1900289
+                ],
+                [
+                    48.7020738,
+                    6.1911601
+                ],
+                [
+                    48.6991466,
+                    6.1934774
+                ],
+                [
+                    48.6990349,
+                    6.1933822
+                ],
+                [
+                    48.6985754,
+                    6.1925784
+                ],
+                [
+                    48.6983697,
+                    6.1925786
+                ],
+                [
+                    48.6964715,
+                    6.1929554
+                ],
+                [
+                    48.6961237,
+                    6.191781
+                ],
+                [
+                    48.6957104,
+                    6.1904055
+                ],
+                [
+                    48.6956306,
+                    6.1901255
+                ],
+                [
+                    48.6954654,
+                    6.1900933
+                ],
+                [
+                    48.6952564,
+                    6.190088
+                ],
+                [
+                    48.6951987,
+                    6.1900429
+                ],
+                [
+                    48.6930254,
+                    6.1897332
+                ],
+                [
+                    48.6927863,
+                    6.1899037
+                ],
+                [
+                    48.6937495,
+                    6.1919255
+                ],
+                [
+                    48.6953138,
+                    6.1905647
+                ]
+            ],
+            "mode_transport": "camion"
+        },
+        {
+            "source": "00023 - PROMENADE DES CANAUX",
+            "destination": "00028 - MARCH\u00c9 D'HAUSSONVILLE",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.6930002,
+                    6.1965331
+                ],
+                [
+                    48.6926758,
+                    6.1958974
+                ],
+                [
+                    48.6924936,
+                    6.1955735
+                ],
+                [
+                    48.692204,
+                    6.1948111
+                ],
+                [
+                    48.6918034,
+                    6.1932044
+                ],
+                [
+                    48.691707,
+                    6.1928412
+                ],
+                [
+                    48.6916685,
+                    6.1926815
+                ],
+                [
+                    48.6911973,
+                    6.19096
+                ],
+                [
+                    48.6906124,
+                    6.188895
+                ],
+                [
+                    48.690459,
+                    6.1883517
+                ],
+                [
+                    48.6902797,
+                    6.1877123
+                ],
+                [
+                    48.6902445,
+                    6.187585
+                ],
+                [
+                    48.6901058,
+                    6.1870904
+                ],
+                [
+                    48.6900291,
+                    6.1868049
+                ],
+                [
+                    48.6898342,
+                    6.1861369
+                ],
+                [
+                    48.6896316,
+                    6.1854262
+                ],
+                [
+                    48.6895111,
+                    6.1849926
+                ],
+                [
+                    48.6889149,
+                    6.1855986
+                ],
+                [
+                    48.6884635,
+                    6.184194
+                ],
+                [
+                    48.6881018,
+                    6.1830319
+                ],
+                [
+                    48.6874726,
+                    6.1834961
+                ],
+                [
+                    48.6873739,
+                    6.1835709
+                ],
+                [
+                    48.6864953,
+                    6.1842192
+                ],
+                [
+                    48.6856631,
+                    6.1848205
+                ],
+                [
+                    48.6853905,
+                    6.1850191
+                ],
+                [
+                    48.6840651,
+                    6.1860023
+                ],
+                [
+                    48.6839205,
+                    6.1858425
+                ],
+                [
+                    48.6836227,
+                    6.1855043
+                ],
+                [
+                    48.6833695,
+                    6.1852213
+                ],
+                [
+                    48.6829429,
+                    6.1847111
+                ],
+                [
+                    48.6825665,
+                    6.1842865
+                ],
+                [
+                    48.6818259,
+                    6.1834383
+                ],
+                [
+                    48.6815616,
+                    6.1831582
+                ],
+                [
+                    48.6805505,
+                    6.1819982
+                ],
+                [
+                    48.6801216,
+                    6.1815112
+                ],
+                [
+                    48.6789336,
+                    6.1801982
+                ],
+                [
+                    48.6788262,
+                    6.1800802
+                ],
+                [
+                    48.6783352,
+                    6.1794712
+                ],
+                [
+                    48.6769711,
+                    6.1779322
+                ],
+                [
+                    48.6766789,
+                    6.1776167
+                ],
+                [
+                    48.67616,
+                    6.1770385
+                ],
+                [
+                    48.6750941,
+                    6.1758399
+                ],
+                [
+                    48.6748846,
+                    6.1756058
+                ],
+                [
+                    48.6744541,
+                    6.17513
+                ],
+                [
+                    48.6739702,
+                    6.1745964
+                ],
+                [
+                    48.6733791,
+                    6.173926
+                ],
+                [
+                    48.6728923,
+                    6.1733998
+                ],
+                [
+                    48.6723108,
+                    6.172715
+                ],
+                [
+                    48.6712718,
+                    6.171605
+                ],
+                [
+                    48.6699252,
+                    6.1701193
+                ],
+                [
+                    48.6706959,
+                    6.1685392
+                ],
+                [
+                    48.6715657,
+                    6.166847
+                ],
+                [
+                    48.6721577,
+                    6.1664156
+                ],
+                [
+                    48.6719961,
+                    6.1659305
+                ],
+                [
+                    48.6720096,
+                    6.1657468
+                ]
+            ],
+            "mode_transport": "camion"
+        },
+        {
+            "source": "00020 - PLACE DES VOSGES",
+            "destination": "00013 - SAINT NICOLAS - CHARLES III",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.6850384,
+                    6.1871277
+                ],
+                [
+                    48.6857444,
+                    6.1861563
+                ],
+                [
+                    48.686861,
+                    6.1853768
+                ],
+                [
+                    48.6873518,
+                    6.1869173
+                ],
+                [
+                    48.6876474,
+                    6.1878449
+                ]
+            ],
+            "mode_transport": "camion"
+        },
+        {
+            "source": "00031 - ARTEM",
+            "destination": "00004 - MARCHE CENTRAL (CB)",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.6745033,
+                    6.1708152
+                ],
+                [
+                    48.6736005,
+                    6.1714969
+                ],
+                [
+                    48.6730348,
+                    6.1719196
+                ],
+                [
+                    48.6723108,
+                    6.172715
+                ],
+                [
+                    48.6717819,
+                    6.1745367
+                ],
+                [
+                    48.6725975,
+                    6.17639
+                ],
+                [
+                    48.6726985,
+                    6.176615
+                ],
+                [
+                    48.6727888,
+                    6.1767981
+                ],
+                [
+                    48.6735078,
+                    6.1780997
+                ],
+                [
+                    48.67427,
+                    6.1794799
+                ],
+                [
+                    48.6748094,
+                    6.1804823
+                ],
+                [
+                    48.6754188,
+                    6.1815747
+                ],
+                [
+                    48.6756798,
+                    6.1820608
+                ],
+                [
+                    48.6762392,
+                    6.1816886
+                ],
+                [
+                    48.677506,
+                    6.1808734
+                ],
+                [
+                    48.6787523,
+                    6.1800999
+                ],
+                [
+                    48.6788196,
+                    6.1801643
+                ],
+                [
+                    48.6789336,
+                    6.1801982
+                ],
+                [
+                    48.6801216,
+                    6.1815112
+                ],
+                [
+                    48.6805505,
+                    6.1819982
+                ],
+                [
+                    48.6815616,
+                    6.1831582
+                ],
+                [
+                    48.6818259,
+                    6.1834383
+                ],
+                [
+                    48.6825665,
+                    6.1842865
+                ],
+                [
+                    48.6829429,
+                    6.1847111
+                ],
+                [
+                    48.6833695,
+                    6.1852213
+                ],
+                [
+                    48.6836227,
+                    6.1855043
+                ],
+                [
+                    48.6839205,
+                    6.1858425
+                ],
+                [
+                    48.6840651,
+                    6.1860023
+                ],
+                [
+                    48.6850384,
+                    6.1871277
+                ],
+                [
+                    48.6857444,
+                    6.1861563
+                ],
+                [
+                    48.686861,
+                    6.1853768
+                ],
+                [
+                    48.6877366,
+                    6.1847303
+                ],
+                [
+                    48.6884635,
+                    6.184194
+                ],
+                [
+                    48.6891672,
+                    6.1836753
+                ]
+            ],
+            "mode_transport": "camion"
+        },
+        {
+            "source": "00008 - COURS LEOPOLD - SAINT MICHEL",
+            "destination": "00018 - GARE SAINT LEON",
+            "source_color": "green",
+            "destination_color": "orange",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udfe0",
+            "path": [
+                [
+                    48.6956951,
+                    6.1765829
+                ],
+                [
+                    48.6964316,
+                    6.1760575
+                ],
+                [
+                    48.6970405,
+                    6.1756217
+                ],
+                [
+                    48.6966357,
+                    6.1743309
+                ],
+                [
+                    48.6938958,
+                    6.1762923
+                ],
+                [
+                    48.6926196,
+                    6.1771784
+                ],
+                [
+                    48.6923163,
+                    6.1773315
+                ],
+                [
+                    48.6918742,
+                    6.1778101
+                ],
+                [
+                    48.6912621,
+                    6.175266
+                ],
+                [
+                    48.6910288,
+                    6.1751735
+                ],
+                [
+                    48.6905839,
+                    6.1736289
+                ],
+                [
+                    48.6903783,
+                    6.1729479
+                ],
+                [
+                    48.690033,
+                    6.17182
+                ]
+            ],
+            "mode_transport": "camion"
+        },
+        {
+            "source": "00017 - CONSERVATOIRE - MANUFACTURE",
+            "destination": "00035 - MON DESERT",
+            "source_color": "green",
+            "destination_color": "red",
+            "source_icon": "\ud83d\udfe2",
+            "destination_icon": "\ud83d\udd34",
+            "path": [
+                [
+                    48.6958396,
+                    6.1713725
+                ],
+                [
+                    48.6957694,
+                    6.1710337
+                ],
+                [
+                    48.6957158,
+                    6.1710523
+                ],
+                [
+                    48.6953358,
+                    6.1712254
+                ],
+                [
+                    48.6922125,
+                    6.1725979
+                ],
+                [
+                    48.6905839,
+                    6.1736289
+                ],
+                [
+                    48.6903783,
+                    6.1729479
+                ],
+                [
+                    48.690033,
+                    6.17182
+                ],
+                [
+                    48.6893981,
+                    6.1697332
+                ],
+                [
+                    48.6875937,
+                    6.1707456
+                ],
+                [
+                    48.686632,
+                    6.1712743
+                ],
+                [
+                    48.6857457,
+                    6.1718776
+                ],
+                [
+                    48.6855189,
+                    6.1720356
+                ],
+                [
+                    48.6853839,
+                    6.1721294
+                ],
+                [
+                    48.6851857,
+                    6.1722656
+                ],
+                [
+                    48.6844046,
+                    6.172782
+                ],
+                [
+                    48.6839209,
+                    6.1731347
+                ],
+                [
+                    48.683427,
+                    6.1734676
+                ],
+                [
+                    48.6837198,
+                    6.1749064
+                ],
+                [
+                    48.6840193,
+                    6.1763168
+                ],
+                [
+                    48.6841045,
+                    6.1767222
+                ]
+            ],
+            "mode_transport": "camion"
+        }
+    ]
+}
