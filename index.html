@@ -43,7 +43,6 @@
 
       // Charger le fichier JSON pour les trajets
       $.getJSON("https://raw.githubusercontent.com/Romcro/reequilibrage-station-velo/main/trajets_repartition.json", function (data) {
- {
         trajetsData = data;
 
         // Appel pour afficher les stations sur la carte au chargement
@@ -133,11 +132,11 @@
       // Fonction pour actualiser les données en appelant le script Python qui génère le JSON
       function actualiserDonnees() {
         $.ajax({
-          url: "trajets_repartition.json", // L'URL de ton script Python qui régénère le JSON
+          url: "trajets_repartition.json",
           method: "GET",
           success: function () {
             alert("Les données ont été actualisées !");
-            window.location.reload(); // Recharger la page pour appliquer les nouvelles données
+            window.location.reload();
           },
           error: function () {
             alert("Erreur lors de l'actualisation des données.");
