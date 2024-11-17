@@ -43,7 +43,9 @@
 
       // Charger le fichier JSON pour les trajets
       function chargerDonnees() {
-        $.getJSON("trajets_repartition.json")
+        $.getJSON(
+          "https://romcro.github.io/reequilibrage-station-velo/trajets_repartition.json"
+        )
           .done(function (data) {
             trajetsData = data;
 
