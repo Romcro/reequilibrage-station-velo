@@ -42,12 +42,21 @@
       var trajetsData;
 
       // Charger le fichier JSON pour les trajets
-      $.getJSON("/trajets_repartition.json", function (data) {
-        trajetsData = data;
+      function chargerDonnees() {
+        $.getJSON("trajets_repartition.json")
+          .done(function (data) {
+            trajetsData = data;
 
-        // Appel pour afficher les stations sur la carte au chargement
-        afficherStations(trajetsData.stations);
-      });
+            // Afficher les stations sur la carte
+            afficherStations(trajetsData.stations);
+          })
+          .fail(function (jqxhr, textStatus, error) {
+            console.error(
+              "Erreur lors du chargement du JSON : " + textStatus + ", " + error
+            );
+            alert("Impossible de charger les données. Vérifiez le fichier JSON.");
+          });
+      }
 
       // Fonction pour afficher les trajets vélo ou camion
       function afficherTrajets(type) {
@@ -80,6 +89,7 @@
 
       // Fonction pour afficher un trajet sur la carte
       function afficherTrajetSurCarte(trajet) {
+        // Supprimer les anciens trajets et marqueurs
         map.eachLayer(function (layer) {
           if (layer.options && layer.options.pane !== "tilePane") {
             map.removeLayer(layer);
@@ -89,6 +99,7 @@
         var start = trajet.path[0];
         var end = trajet.path[trajet.path.length - 1];
 
+        // Ajouter les marqueurs de départ et d'arrivée
         L.marker([start[0], start[1]], {
           icon: L.divIcon({ className: "station-marker " + trajet.source_color }),
         })
@@ -103,6 +114,7 @@
           .bindPopup("Arrivée: " + trajet.destination)
           .openPopup();
 
+        // Ajouter la polyline du trajet
         var latlngs = trajet.path.map(function (coord) {
           return [coord[0], coord[1]];
         });
@@ -129,20 +141,21 @@
         });
       }
 
-      // Fonction pour actualiser les données en appelant le script Python qui génère le JSON
+      // Fonction pour actualiser les données
       function actualiserDonnees() {
-        $.ajax({
-          url: "trajets_repartition.json", // L'URL de ton script Python qui régénère le JSON
-          method: "GET",
-          success: function () {
+        $.getJSON("trajets_repartition.json?" + new Date().getTime())
+          .done(function (data) {
+            trajetsData = data;
+            afficherStations(trajetsData.stations);
             alert("Les données ont été actualisées !");
-            window.location.reload(); // Recharger la page pour appliquer les nouvelles données
-          },
-          error: function () {
+          })
+          .fail(function () {
             alert("Erreur lors de l'actualisation des données.");
-          },
-        });
+          });
       }
+
+      // Charger les données au démarrage
+      chargerDonnees();
     </script>
   </body>
 </html>
