@@ -15,7 +15,7 @@
             "available_bike_stands": 5,
             "available_bikes": 10,
             "status": "OPEN",
-            "last_update": 1731876701000,
+            "last_update": 1731877306000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -34,7 +34,7 @@
             "available_bike_stands": 23,
             "available_bikes": 1,
             "status": "OPEN",
-            "last_update": 1731877009000,
+            "last_update": 1731877807000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -53,7 +53,7 @@
             "available_bike_stands": 6,
             "available_bikes": 19,
             "status": "OPEN",
-            "last_update": 1731877056000,
+            "last_update": 1731877661000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -72,7 +72,7 @@
             "available_bike_stands": 13,
             "available_bikes": 2,
             "status": "OPEN",
-            "last_update": 1731876966000,
+            "last_update": 1731877800000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -88,10 +88,10 @@
             "banking": false,
             "bonus": false,
             "bike_stands": 16,
-            "available_bike_stands": 0,
-            "available_bikes": 16,
+            "available_bike_stands": 1,
+            "available_bikes": 15,
             "status": "OPEN",
-            "last_update": 1731876706000,
+            "last_update": 1731877518000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -110,7 +110,7 @@
             "available_bike_stands": 17,
             "available_bikes": 1,
             "status": "OPEN",
-            "last_update": 1731876904000,
+            "last_update": 1731877509000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -126,10 +126,10 @@
             "banking": false,
             "bonus": false,
             "bike_stands": 16,
-            "available_bike_stands": 5,
-            "available_bikes": 11,
+            "available_bike_stands": 4,
+            "available_bikes": 12,
             "status": "OPEN",
-            "last_update": 1731876707000,
+            "last_update": 1731877314000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -148,7 +148,7 @@
             "available_bike_stands": 15,
             "available_bikes": 0,
             "status": "OPEN",
-            "last_update": 1731876648000,
+            "last_update": 1731877253000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -167,7 +167,7 @@
             "available_bike_stands": 6,
             "available_bikes": 10,
             "status": "OPEN",
-            "last_update": 1731876641000,
+            "last_update": 1731877247000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -183,10 +183,10 @@
             "banking": true,
             "bonus": false,
             "bike_stands": 18,
-            "available_bike_stands": 14,
-            "available_bikes": 4,
+            "available_bike_stands": 15,
+            "available_bikes": 3,
             "status": "OPEN",
-            "last_update": 1731877082000,
+            "last_update": 1731877688000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -205,7 +205,7 @@
             "available_bike_stands": 19,
             "available_bikes": 1,
             "status": "OPEN",
-            "last_update": 1731876727000,
+            "last_update": 1731877332000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -224,7 +224,7 @@
             "available_bike_stands": 14,
             "available_bikes": 1,
             "status": "OPEN",
-            "last_update": 1731876650000,
+            "last_update": 1731877741000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -240,10 +240,10 @@
             "banking": false,
             "bonus": false,
             "bike_stands": 22,
-            "available_bike_stands": 19,
-            "available_bikes": 3,
+            "available_bike_stands": 17,
+            "available_bikes": 5,
             "status": "OPEN",
-            "last_update": 1731876794000,
+            "last_update": 1731877487000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -262,7 +262,7 @@
             "available_bike_stands": 5,
             "available_bikes": 11,
             "status": "OPEN",
-            "last_update": 1731876727000,
+            "last_update": 1731877332000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -278,12 +278,12 @@
             "banking": false,
             "bonus": false,
             "bike_stands": 20,
-            "available_bike_stands": 15,
-            "available_bikes": 5,
+            "available_bike_stands": 16,
+            "available_bikes": 4,
             "status": "OPEN",
-            "last_update": 1731876612000,
-            "couleur": "orange",
-            "icone": "\ud83d\udfe0"
+            "last_update": 1731877289000,
+            "couleur": "red",
+            "icone": "\ud83d\udd34"
         },
         {
             "number": 5,
@@ -300,7 +300,7 @@
             "available_bike_stands": 11,
             "available_bikes": 4,
             "status": "OPEN",
-            "last_update": 1731876660000,
+            "last_update": 1731877265000,
             "couleur": "orange",
             "icone": "\ud83d\udfe0"
         },
@@ -319,7 +319,7 @@
             "available_bike_stands": 9,
             "available_bikes": 10,
             "status": "OPEN",
-            "last_update": 1731876709000,
+            "last_update": 1731877314000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -338,7 +338,7 @@
             "available_bike_stands": 0,
             "available_bikes": 19,
             "status": "OPEN",
-            "last_update": 1731876812000,
+            "last_update": 1731877498000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -357,7 +357,7 @@
             "available_bike_stands": 5,
             "available_bikes": 12,
             "status": "OPEN",
-            "last_update": 1731876594000,
+            "last_update": 1731877804000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -373,10 +373,10 @@
             "banking": false,
             "bonus": false,
             "bike_stands": 15,
-            "available_bike_stands": 13,
-            "available_bikes": 2,
+            "available_bike_stands": 14,
+            "available_bikes": 1,
             "status": "OPEN",
-            "last_update": 1731877038000,
+            "last_update": 1731877397000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -395,7 +395,7 @@
             "available_bike_stands": 0,
             "available_bikes": 15,
             "status": "OPEN",
-            "last_update": 1731876741000,
+            "last_update": 1731877346000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -414,7 +414,7 @@
             "available_bike_stands": 27,
             "available_bikes": 1,
             "status": "OPEN",
-            "last_update": 1731876637000,
+            "last_update": 1731877244000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -433,7 +433,7 @@
             "available_bike_stands": 13,
             "available_bikes": 2,
             "status": "OPEN",
-            "last_update": 1731876653000,
+            "last_update": 1731877259000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -452,7 +452,7 @@
             "available_bike_stands": 1,
             "available_bikes": 21,
             "status": "OPEN",
-            "last_update": 1731876700000,
+            "last_update": 1731877758000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -468,10 +468,10 @@
             "banking": false,
             "bonus": false,
             "bike_stands": 16,
-            "available_bike_stands": 7,
-            "available_bikes": 9,
+            "available_bike_stands": 6,
+            "available_bikes": 10,
             "status": "OPEN",
-            "last_update": 1731876790000,
+            "last_update": 1731877723000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -490,7 +490,7 @@
             "available_bike_stands": 10,
             "available_bikes": 10,
             "status": "OPEN",
-            "last_update": 1731876624000,
+            "last_update": 1731877229000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -509,7 +509,7 @@
             "available_bike_stands": 14,
             "available_bikes": 1,
             "status": "OPEN",
-            "last_update": 1731876687000,
+            "last_update": 1731877292000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -528,7 +528,7 @@
             "available_bike_stands": 0,
             "available_bikes": 15,
             "status": "OPEN",
-            "last_update": 1731876749000,
+            "last_update": 1731877356000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -547,7 +547,7 @@
             "available_bike_stands": 8,
             "available_bikes": 4,
             "status": "OPEN",
-            "last_update": 1731877014000,
+            "last_update": 1731877620000,
             "couleur": "orange",
             "icone": "\ud83d\udfe0"
         },
@@ -566,7 +566,7 @@
             "available_bike_stands": 18,
             "available_bikes": 2,
             "status": "OPEN",
-            "last_update": 1731876686000,
+            "last_update": 1731877291000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -585,7 +585,7 @@
             "available_bike_stands": 4,
             "available_bikes": 14,
             "status": "OPEN",
-            "last_update": 1731876974000,
+            "last_update": 1731877579000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -604,7 +604,7 @@
             "available_bike_stands": 39,
             "available_bikes": 0,
             "status": "OPEN",
-            "last_update": 1731876970000,
+            "last_update": 1731877575000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -623,7 +623,7 @@
             "available_bike_stands": 7,
             "available_bikes": 9,
             "status": "OPEN",
-            "last_update": 1731877015000,
+            "last_update": 1731877620000,
             "couleur": "green",
             "icone": "\ud83d\udfe2"
         },
@@ -639,10 +639,10 @@
             "banking": false,
             "bonus": false,
             "bike_stands": 18,
-            "available_bike_stands": 16,
-            "available_bikes": 2,
+            "available_bike_stands": 15,
+            "available_bikes": 3,
             "status": "OPEN",
-            "last_update": 1731876752000,
+            "last_update": 1731877721000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -661,7 +661,7 @@
             "available_bike_stands": 14,
             "available_bikes": 1,
             "status": "OPEN",
-            "last_update": 1731876980000,
+            "last_update": 1731877303000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         },
@@ -680,7 +680,7 @@
             "available_bike_stands": 18,
             "available_bikes": 0,
             "status": "OPEN",
-            "last_update": 1731877006000,
+            "last_update": 1731877611000,
             "couleur": "red",
             "icone": "\ud83d\udd34"
         }
@@ -689,10 +689,6 @@
         {
             "source": "00030 - NATIONS",
             "destination": "00029 - VELODROME (CB)",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6688708,
@@ -760,10 +756,6 @@
         {
             "source": "00001 - DOMINICAINS - FOURIER (CB)",
             "destination": "00033 - LAXOU MAIRIE",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.692438,
@@ -943,10 +935,6 @@
         {
             "source": "00006 - LES 2 RIVES",
             "destination": "00019 - COMMANDERIE - CHALNOT",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6954591,
@@ -1182,10 +1170,6 @@
         {
             "source": "00015 - PORT STE CATHERINE",
             "destination": "00028 - MARCH\u00c9 D'HAUSSONVILLE",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6953138,
@@ -1509,10 +1493,6 @@
         {
             "source": "00013 - SAINT NICOLAS - CHARLES III",
             "destination": "00004 - MARCHE CENTRAL (CB)",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6876474,
@@ -1570,139 +1550,8 @@
             "mode_transport": "velo"
         },
         {
-            "source": "00022 - HOPITAL ST JULIEN",
-            "destination": "00018 - GARE SAINT LEON",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
-            "path": [
-                [
-                    48.6859673,
-                    6.1928159
-                ],
-                [
-                    48.6860298,
-                    6.1925612
-                ],
-                [
-                    48.6860842,
-                    6.1923441
-                ],
-                [
-                    48.6861842,
-                    6.1921115
-                ],
-                [
-                    48.6862534,
-                    6.192003
-                ],
-                [
-                    48.6862347,
-                    6.1918713
-                ],
-                [
-                    48.6861633,
-                    6.1918143
-                ],
-                [
-                    48.6860002,
-                    6.1913772
-                ],
-                [
-                    48.6855719,
-                    6.1905721
-                ],
-                [
-                    48.6845149,
-                    6.188837
-                ],
-                [
-                    48.6842826,
-                    6.1885714
-                ],
-                [
-                    48.6850384,
-                    6.1871277
-                ],
-                [
-                    48.6857444,
-                    6.1861563
-                ],
-                [
-                    48.6853905,
-                    6.1850191
-                ],
-                [
-                    48.6856631,
-                    6.1848205
-                ],
-                [
-                    48.6864953,
-                    6.1842192
-                ],
-                [
-                    48.6873739,
-                    6.1835709
-                ],
-                [
-                    48.6874726,
-                    6.1834961
-                ],
-                [
-                    48.6872431,
-                    6.1827084
-                ],
-                [
-                    48.6866207,
-                    6.1806783
-                ],
-                [
-                    48.6863118,
-                    6.1796635
-                ],
-                [
-                    48.687219,
-                    6.179029
-                ],
-                [
-                    48.6882135,
-                    6.1778154
-                ],
-                [
-                    48.6894079,
-                    6.1763483
-                ],
-                [
-                    48.690603,
-                    6.1755173
-                ],
-                [
-                    48.6910288,
-                    6.1751735
-                ],
-                [
-                    48.6905839,
-                    6.1736289
-                ],
-                [
-                    48.6903783,
-                    6.1729479
-                ],
-                [
-                    48.690033,
-                    6.17182
-                ]
-            ],
-            "mode_transport": "velo"
-        },
-        {
             "source": "00014 - FAC DE LETTRES",
             "destination": "00035 - MON DESERT",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6929463,
@@ -1806,10 +1655,6 @@
         {
             "source": "00016 - PORTE DE LA CRAFFE",
             "destination": "00012 - ST SEBASTIEN - ST THIEBAUT",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6985798,
@@ -1925,10 +1770,6 @@
         {
             "source": "00009 - PLACE BARROIS",
             "destination": "00021 - HOPITAL CENTRAL",
-            "source_color": "green",
-            "destination_color": "orange",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udfe0",
             "path": [
                 [
                     48.6995731,
@@ -2164,10 +2005,6 @@
         {
             "source": "00034 - MALZEVILLE",
             "destination": "00005 - PLACE COLONEL DRIANT",
-            "source_color": "green",
-            "destination_color": "orange",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udfe0",
             "path": [
                 [
                     48.7051371,
@@ -2309,155 +2146,8 @@
             "mode_transport": "velo"
         },
         {
-            "source": "00024 - 3 MAISONS - CHARLES V (CB)",
-            "destination": "00036 - SAURUPT",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
-            "path": [
-                [
-                    48.7012351,
-                    6.1767433
-                ],
-                [
-                    48.7019075,
-                    6.1760637
-                ],
-                [
-                    48.702629,
-                    6.1754418
-                ],
-                [
-                    48.702705,
-                    6.1753702
-                ],
-                [
-                    48.702668,
-                    6.1750685
-                ],
-                [
-                    48.7021989,
-                    6.1739761
-                ],
-                [
-                    48.700957,
-                    6.17447
-                ],
-                [
-                    48.6984405,
-                    6.1746625
-                ],
-                [
-                    48.6980455,
-                    6.1749704
-                ],
-                [
-                    48.6978856,
-                    6.1750265
-                ],
-                [
-                    48.6978494,
-                    6.1750547
-                ],
-                [
-                    48.6977535,
-                    6.1749891
-                ],
-                [
-                    48.6976271,
-                    6.1745993
-                ],
-                [
-                    48.6975286,
-                    6.1742815
-                ],
-                [
-                    48.6966357,
-                    6.1743309
-                ],
-                [
-                    48.6938958,
-                    6.1762923
-                ],
-                [
-                    48.6926196,
-                    6.1771784
-                ],
-                [
-                    48.6923163,
-                    6.1773315
-                ],
-                [
-                    48.6918742,
-                    6.1778101
-                ],
-                [
-                    48.6915683,
-                    6.1781045
-                ],
-                [
-                    48.6914093,
-                    6.1780163
-                ],
-                [
-                    48.6911555,
-                    6.177224
-                ],
-                [
-                    48.690175,
-                    6.177957
-                ],
-                [
-                    48.68994,
-                    6.1781372
-                ],
-                [
-                    48.6889053,
-                    6.1788976
-                ],
-                [
-                    48.6886421,
-                    6.1791472
-                ],
-                [
-                    48.6866207,
-                    6.1806783
-                ],
-                [
-                    48.6855832,
-                    6.1813597
-                ],
-                [
-                    48.6829429,
-                    6.1847111
-                ],
-                [
-                    48.6825665,
-                    6.1842865
-                ],
-                [
-                    48.6818259,
-                    6.1834383
-                ],
-                [
-                    48.6815616,
-                    6.1831582
-                ],
-                [
-                    48.6805505,
-                    6.1819982
-                ]
-            ],
-            "mode_transport": "velo"
-        },
-        {
             "source": "00023 - PROMENADE DES CANAUX",
             "destination": "00003 - PLACE DE DOMBASLE",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6929203,
@@ -2593,10 +2283,6 @@
         {
             "source": "00007 - PLACE ST EPVRE",
             "destination": "00026 - BAUDRICOURT HAUSSONVILLE",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6951236,
@@ -2848,10 +2534,6 @@
         {
             "source": "00020 - PLACE DES VOSGES",
             "destination": "00032 - MEDREVILLE",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6845504,
@@ -3059,10 +2741,6 @@
         {
             "source": "00008 - COURS LEOPOLD - SAINT MICHEL",
             "destination": "00037 - JARDINIERS - TIERCELINS",
-            "source_color": "green",
-            "destination_color": "orange",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udfe0",
             "path": [
                 [
                     48.6956951,
@@ -3202,10 +2880,6 @@
         {
             "source": "00002 - PLACE DE LA CARRIERE",
             "destination": "00031 - ARTEM",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6945722,
@@ -3463,10 +3137,6 @@
         {
             "source": "00030 - NATIONS",
             "destination": "00029 - VELODROME (CB)",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6689077,
@@ -3514,10 +3184,6 @@
         {
             "source": "00001 - DOMINICAINS - FOURIER (CB)",
             "destination": "00033 - LAXOU MAIRIE",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6925437,
@@ -3689,10 +3355,6 @@
         {
             "source": "00006 - LES 2 RIVES",
             "destination": "00019 - COMMANDERIE - CHALNOT",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6954198,
@@ -3868,10 +3530,6 @@
         {
             "source": "00015 - PORT STE CATHERINE",
             "destination": "00028 - MARCH\u00c9 D'HAUSSONVILLE",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6953138,
@@ -4123,10 +3781,6 @@
         {
             "source": "00013 - SAINT NICOLAS - CHARLES III",
             "destination": "00004 - MARCHE CENTRAL (CB)",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6876474,
@@ -4182,10 +3836,6 @@
         {
             "source": "00022 - HOPITAL ST JULIEN",
             "destination": "00018 - GARE SAINT LEON",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6859673,
@@ -4309,10 +3959,6 @@
         {
             "source": "00014 - FAC DE LETTRES",
             "destination": "00035 - MON DESERT",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6929463,
@@ -4396,10 +4042,6 @@
         {
             "source": "00016 - PORTE DE LA CRAFFE",
             "destination": "00012 - ST SEBASTIEN - ST THIEBAUT",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.698397,
@@ -4527,10 +4169,6 @@
         {
             "source": "00009 - PLACE BARROIS",
             "destination": "00021 - HOPITAL CENTRAL",
-            "source_color": "green",
-            "destination_color": "orange",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udfe0",
             "path": [
                 [
                     48.699391,
@@ -4722,10 +4360,6 @@
         {
             "source": "00034 - MALZEVILLE",
             "destination": "00005 - PLACE COLONEL DRIANT",
-            "source_color": "green",
-            "destination_color": "orange",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udfe0",
             "path": [
                 [
                     48.7047491,
@@ -4821,10 +4455,6 @@
         {
             "source": "00024 - 3 MAISONS - CHARLES V (CB)",
             "destination": "00036 - SAURUPT",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.7012351,
@@ -4964,10 +4594,6 @@
         {
             "source": "00023 - PROMENADE DES CANAUX",
             "destination": "00003 - PLACE DE DOMBASLE",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6930002,
@@ -5075,10 +4701,6 @@
         {
             "source": "00007 - PLACE ST EPVRE",
             "destination": "00026 - BAUDRICOURT HAUSSONVILLE",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6953603,
@@ -5230,10 +4852,6 @@
         {
             "source": "00020 - PLACE DES VOSGES",
             "destination": "00032 - MEDREVILLE",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6850384,
@@ -5357,10 +4975,6 @@
         {
             "source": "00008 - COURS LEOPOLD - SAINT MICHEL",
             "destination": "00037 - JARDINIERS - TIERCELINS",
-            "source_color": "green",
-            "destination_color": "orange",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udfe0",
             "path": [
                 [
                     48.6956951,
@@ -5456,10 +5070,6 @@
         {
             "source": "00002 - PLACE DE LA CARRIERE",
             "destination": "00031 - ARTEM",
-            "source_color": "green",
-            "destination_color": "red",
-            "source_icon": "\ud83d\udfe2",
-            "destination_icon": "\ud83d\udd34",
             "path": [
                 [
                     48.6945722,

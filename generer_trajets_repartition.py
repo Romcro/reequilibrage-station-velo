@@ -109,7 +109,7 @@ def generer_trajets_repartition(sources, cibles, graph_velo, graph_camion):
     print(f"{len(trajets_velo)} trajets vélo générés, {len(trajets_camion)} trajets camion générés.")
     return trajets_velo, trajets_camion
 
-# Fonction pour appeler la génération des données
+# Générer et sauvegarder les données dans un fichier JSON
 def generer_donnees():
     api_key = "88c1597f631e505d9b5fad4e1773fd956b371bf0"
     contract_name = "nancy"
@@ -123,6 +123,15 @@ def generer_donnees():
 
         if graph_velo and graph_camion:
             trajets_velo, trajets_camion = generer_trajets_repartition(sources, cibles, graph_velo, graph_camion)
+
+            # Sauvegarder les données dans un fichier JSON
+            with open('trajets_repartition.json', 'w') as f:
+                json.dump({
+                    "stations": stations,
+                    "trajets_velo": trajets_velo,
+                    "trajets_camion": trajets_camion
+                }, f, indent=4)
+            print("Données sauvegardées dans 'trajets_repartition.json'.")
         else:
             print("Erreur : Impossible de récupérer les réseaux.")
     else:
